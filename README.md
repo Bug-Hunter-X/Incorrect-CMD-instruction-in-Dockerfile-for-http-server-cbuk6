@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using the `CMD` instruction in a Dockerfile to run a simple HTTP server using Python's `http.server`. The initial `DockerfileBug.dockerfile` contains the error, while `DockerfileSolution.dockerfile` provides the corrected version.
